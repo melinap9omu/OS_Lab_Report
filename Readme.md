@@ -23,7 +23,7 @@ Common directories:
 
 ## Basic Linux Commands
 
-### 1. `pwd` – Print Working Directory
+1. `pwd` – Print Working Directory
 When you open the terminal, you start in your home directory.  
 The `pwd` command shows your exact location by displaying the absolute path from the root.
 
